@@ -14,7 +14,7 @@
 
 | 仓库 | 说明 |
 |---|---|
-| [HelloGitHub/HelloGitHub](https://github.com/HelloGitHub/HelloGitHub) | 中文月刊，专收新手看得懂的开源项目，带演示图，像每期开盲盒 |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 中文月刊，专收新手看得懂的开源项目，带演示图，像每期开盲盒 |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 中文 Python 百天学习教程，从语法基础到 Web / 数据分析 |
 | [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 各技术方向学习路线图，迷茫时看看下一步学什么 |
 
@@ -22,7 +22,7 @@
 
 | 仓库 | 说明 |
 |---|---|
-| [labuladong/leetcode](https://github.com/labuladong/leetcode) | 算法刷题套路笔记，讲思路而不是死记题解 |
+| [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 算法刷题套路笔记，讲思路而不是死记题解 |
 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 一份从零到能应对技术面试的完整学习清单 |
 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 各类算法的 Python 实现大全，方便查阅与对照 |
 
@@ -39,7 +39,7 @@
 | 仓库 | 说明 |
 |---|---|
 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 开源参数化 CAD，机械方向的「Linux」 |
-| [OpenFOAM/OpenFOAM](https://github.com/OpenFOAM/OpenFOAM) | 开源 CFD 求解器，流体 / 热仿真绕不开的名字 |
+| [OpenFOAM/OpenFOAM-dev](https://github.com/OpenFOAM/OpenFOAM-dev) | 开源 CFD 求解器，流体 / 热仿真绕不开的名字 |
 
 ## 使用心得
 
